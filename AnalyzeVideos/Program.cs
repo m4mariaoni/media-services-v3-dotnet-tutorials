@@ -33,6 +33,7 @@ namespace AnalyzeVideos
             }
             catch
             { 
+
             }
 
             ConfigWrapper config = new(new ConfigurationBuilder()
