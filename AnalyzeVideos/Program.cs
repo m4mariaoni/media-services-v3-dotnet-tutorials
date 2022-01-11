@@ -32,8 +32,7 @@ namespace AnalyzeVideos
                 DotEnv.Load(".env");
             }
             catch
-            {
-
+            { 
             }
 
             ConfigWrapper config = new(new ConfigurationBuilder()
