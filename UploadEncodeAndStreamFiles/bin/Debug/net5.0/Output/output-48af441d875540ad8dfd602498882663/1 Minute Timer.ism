@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language">
+  <head>
+    <meta name="clientManifestRelativePath" content="1 Minute Timer.ismc" />
+    <meta name="formats" content="mp4-v3" />
+  </head>
+  <body>
+    <switch>
+      <audio src="1 Minute Timer_320x180_AACAudio_101.mp4" systemBitrate="128049" systemLanguage="und">
+        <param name="systemBitrate" value="128049" valuetype="data" />
+        <param name="trackID" value="2" valuetype="data" />
+        <param name="trackName" value="aac_und_2_128049_2_1" valuetype="data" />
+        <param name="systemLanguage" value="und" valuetype="data" />
+        <param name="trackIndex" value="1 Minute Timer_320x180_AACAudio_101_2.mpi" valuetype="data" />
+      </audio>
+      <video src="1 Minute Timer_1280x720_AACAudio_811.mp4" systemBitrate="811553">
+        <param name="systemBitrate" value="811553" valuetype="data" />
+        <param name="trackID" value="1" valuetype="data" />
+        <param name="trackName" value="video" valuetype="data" />
+        <param name="trackIndex" value="1 Minute Timer_1280x720_AACAudio_811_1.mpi" valuetype="data" />
+      </video>
+      <video src="1 Minute Timer_960x540_AACAudio_513.mp4" systemBitrate="513471">
+        <param name="systemBitrate" value="513471" valuetype="data" />
+        <param name="trackID" value="1" valuetype="data" />
+        <param name="trackName" value="video" valuetype="data" />
+        <param name="trackIndex" value="1 Minute Timer_960x540_AACAudio_513_1.mpi" valuetype="data" />
+      </video>
+      <video src="1 Minute Timer_640x360_AACAudio_296.mp4" systemBitrate="296405">
+        <param name="systemBitrate" value="296405" valuetype="data" />
+        <param name="trackID" value="1" valuetype="data" />
+        <param name="trackName" value="video" valuetype="data" />
+        <param name="trackIndex" value="1 Minute Timer_640x360_AACAudio_296_1.mpi" valuetype="data" />
+      </video>
+      <video src="1 Minute Timer_480x270_AACAudio_181.mp4" systemBitrate="181041">
+        <param name="systemBitrate" value="181041" valuetype="data" />
+        <param name="trackID" value="1" valuetype="data" />
+        <param name="trackName" value="video" valuetype="data" />
+        <param name="trackIndex" value="1 Minute Timer_480x270_AACAudio_181_1.mpi" valuetype="data" />
+      </video>
+      <video src="1 Minute Timer_320x180_AACAudio_101.mp4" systemBitrate="101785">
+        <param name="systemBitrate" value="101785" valuetype="data" />
+        <param name="trackID" value="1" valuetype="data" />
+        <param name="trackName" value="video" valuetype="data" />
+        <param name="trackIndex" value="1 Minute Timer_320x180_AACAudio_101_1.mpi" valuetype="data" />
+      </video>
+    </switch>
+  </body>
+</smil>

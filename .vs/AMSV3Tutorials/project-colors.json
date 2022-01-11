@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34015bf0-256b-40e0-899b-62985c67fde1": {
+      "ProjectGuid": "34015bf0-256b-40e0-899b-62985c67fde1",
+      "DisplayName": "UploadEncodeAndStreamFiles",
+      "ColorIndex": 0
+    },
+    "01a8f7cf-c312-494f-90df-31df9ad5acc4": {
+      "ProjectGuid": "01a8f7cf-c312-494f-90df-31df9ad5acc4",
+      "DisplayName": "Common_Utils",
+      "ColorIndex": 1
+    },
+    "0d918bce-d418-4789-8177-c654591cfa2a": {
+      "ProjectGuid": "0d918bce-d418-4789-8177-c654591cfa2a",
+      "DisplayName": "AnalyzeVideos",
+      "ColorIndex": 2
+    },
+    "6753064c-0e56-4bb3-8344-88721880f940": {
+      "ProjectGuid": "6753064c-0e56-4bb3-8344-88721880f940",
+      "DisplayName": "EncryptWithAES",
+      "ColorIndex": 3
+    },
+    "f708d2da-fead-4398-bc24-f32c7955e4f0": {
+      "ProjectGuid": "f708d2da-fead-4398-bc24-f32c7955e4f0",
+      "DisplayName": "EncryptWithDRM",
+      "ColorIndex": 4
+    },
+    "1edefbd0-86a3-45a5-8a68-cfcd7612b746": {
+      "ProjectGuid": "1edefbd0-86a3-45a5-8a68-cfcd7612b746",
+      "DisplayName": "Live",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,12 @@
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\bin\Debug\net5.0\Common_Utils.deps.json
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\bin\Debug\net5.0\Common_Utils.dll
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\bin\Debug\net5.0\ref\Common_Utils.dll
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\bin\Debug\net5.0\Common_Utils.pdb
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\obj\Debug\net5.0\Common_Utils.csproj.AssemblyReference.cache
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\obj\Debug\net5.0\Common_Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\obj\Debug\net5.0\Common_Utils.AssemblyInfoInputs.cache
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\obj\Debug\net5.0\Common_Utils.AssemblyInfo.cs
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\obj\Debug\net5.0\Common_Utils.csproj.CoreCompileInputs.cache
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\obj\Debug\net5.0\Common_Utils.dll
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\obj\Debug\net5.0\ref\Common_Utils.dll
+C:\Users\msimeon\source\repos\learn\media-services-v3-dotnet-tutorials\AMSV3Tutorials\Common_Utils\obj\Debug\net5.0\Common_Utils.pdb
